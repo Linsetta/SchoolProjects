@@ -2,7 +2,7 @@
 
 * [Class 22B CPP](https://github.com/Linsetta/SchoolProjects/tree/master/Class22B_CPP/HW5)
 
-* [Class 22C CPP](https://github.com/Linsetta/SchoolProjects/tree/master/Class22C_CPP/Lab7)
+* [Class 22C CPP](https://github.com/Linsetta/SchoolProjects/tree/master/Class22C_CPP)
 
 * [Class 26B C](https://github.com/Linsetta/SchoolProjects/tree/master/Class26B_C)
 
