@@ -1,4 +1,4 @@
-# SchoolProjects
+# Nina Demenchukova's School Projects
 
 `Author: Nina Demenchukova <linsetta@gmail.com>`
 
