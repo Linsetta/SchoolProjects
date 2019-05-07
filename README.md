@@ -1,5 +1,7 @@
 # SchoolProjects
 
+`Author: Nina Demenchukova <linsetta@gmail.com>`
+
 ## [Class 22B CPP](https://github.com/Linsetta/SchoolProjects/tree/master/Class22B_CPP/HW5): Intermediate Programming Methodologies in C++
 
 > A systematic approach to the design, construction and management of
