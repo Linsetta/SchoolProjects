@@ -1,0 +1,120 @@
+1
+Tony
+Stark
+ironman	
+stark
+New York
+Peter Parker,Thor Odinson,Bruce Banner,Thomas Logan,Scott Lang,Natasha Romanova
+Technology,Money,Fighting Evil
+2
+Steve
+Rogers
+cap
+bucky
+New York
+Scott Lang,Bruce Banner,Natasha Romanova,Diana Prince,Bucky Barnes
+Working out,old movies,Fighting Evil
+3
+Peter
+Parker
+Spider 
+imspiddy
+Brooklyn
+Tony Stark, Thor Odinson
+Studies, Physics, Fighting Evil
+4
+Thor 
+Odinson
+thunder
+asgard
+Asgard
+Tony Stark,Peter Parker,Loki Laufeyson,Bruce Banner
+Fighting Evil,Food,hammer
+5
+Bruce
+Banner
+Bruce
+greenman
+Dayton
+Thor Odinson,Tony Stark,Natasha Romanova,Steve Rogers
+Biology,Fighting Evil
+6
+Thomas
+Logan
+wolverine
+metal
+Alberta
+Tony Stark
+Street Fighting,Fighting Evil
+7
+Scott
+Lang
+antman
+imsmall
+New York
+Steve Rogers,Tony Stark,Bucky Barnes
+Fighting Evil,Stealing
+8
+Natasha
+Romanova
+Black Widow
+widow
+Stalingrad
+Steve Rogers,Tony Stark,Bruce Banner
+Fighting,Fashion designer,combat
+9
+Thanos
+N/A
+madtitan
+evilguy
+Titan
+Loki Laufeyson
+Killing People
+10
+Loki
+Laufeyson
+Lokiki
+IloveThor
+Asgard
+Thor Odinson,Thanos N/A
+tricks,pranks
+11
+Clark
+Kent
+superman
+imstrong
+Krypton
+Bruce Wayne, Diana Prince
+Photography, Fighting Evil
+12
+Bruce
+Wayne
+batman
+imrich
+Gotham
+Barry Allen,Clark Kent,Diana Prince
+Technology,Money,Fighting Evil
+13
+Diana
+Prince
+diana
+wonderwoman
+Amazon island of Themyscira
+Steve Rogers,Bruce Wyane,Clark Kent,Barry Allen
+Fighting Evil
+14
+Barry
+Allen
+Flash
+imfast
+Gotham
+Bruce Wayne,Diana Prince
+Technology,Fighting Evil
+15
+Bucky
+Barnes
+wintersoldier
+saveTheworld
+Shelyville
+Steve Rogers,Scott Lang
+Working Out,Old Movies
