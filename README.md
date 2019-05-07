@@ -1,6 +1,6 @@
 # SchoolProjects
 
-* Class 22B CPP
+* [Class 22B CPP](https://github.com/Linsetta/SchoolProjects/tree/master/Class22B_CPP)
 
 * Class 22C CPP
 
