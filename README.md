@@ -1,6 +1,6 @@
 # SchoolProjects
 
-* [Class 22B CPP](https://github.com/Linsetta/SchoolProjects/tree/master/Class22B_CPP/HW5): Intermediate Programming Methodologies in C++
+## [Class 22B CPP](https://github.com/Linsetta/SchoolProjects/tree/master/Class22B_CPP/HW5): Intermediate Programming Methodologies in C++
 
 > A systematic approach to the design, construction and management of
 > computer programs, emphasizing design, programming style,
@@ -10,7 +10,7 @@
 > linked lists. Software engineering and computer science students are
 > the targeted group.
 
-* [Class 22C CPP](https://github.com/Linsetta/SchoolProjects/tree/master/Class22C_CPP): Data Abstraction and Structures
+## [Class 22C CPP](https://github.com/Linsetta/SchoolProjects/tree/master/Class22C_CPP): Data Abstraction and Structures
 
 > Application of software engineering techniques to the design and
 > development of large programs; data abstraction and structures and
@@ -18,7 +18,7 @@
 > and hash tables; internal and external sorting; use of recursion;
 > team project.
 
-* [De Anza 26B: Advanced C Programming](https://github.com/Linsetta/SchoolProjects/tree/master/Class26B_C)
+## [De Anza 26B: Advanced C Programming](https://github.com/Linsetta/SchoolProjects/tree/master/Class26B_C)
 
 > Applications of advanced features of C and the C-library functions
 > including: binary and random-access input/output, dynamic data
@@ -26,7 +26,7 @@
 > conversion, event and error processing, function pointers,
 > recursion, and variable-length argument list functions.
 
-* [De Anza 35B: Advanced Java Programming](https://github.com/Linsetta/SchoolProjects/tree/master/Class35B_Java)
+## [De Anza 35B: Advanced Java Programming](https://github.com/Linsetta/SchoolProjects/tree/master/Class35B_Java)
 
 > Emphasis on foundation technologies in Java that enable you to write
 > server side programs in Java. Concepts include inner classes,
@@ -34,7 +34,7 @@
 > FX, Web Programming with Java Server Pages, Servlets, JavaServer
 > Faces and JavaBeans.
 
-* [De Anza 41A: Python Programming](https://github.com/Linsetta/SchoolProjects/tree/master/Class41A_Python/HW)
+## [De Anza 41A: Python Programming](https://github.com/Linsetta/SchoolProjects/tree/master/Class41A_Python/HW)
 
 > A complete introduction to the Python language. Topics covered
 > include: primitive and collection data types, operators and
@@ -42,13 +42,13 @@
 > modules and packages, object oriented programming, file handling,
 > regular expressions and exception handling
 
-* [De Anza 41JA: Introduction to x86 Processor Assembly Language and Computer Architecture](https://github.com/Linsetta/SchoolProjects/tree/master/Class41JA_ASM/HW)
+## [De Anza 41JA: Introduction to x86 Processor Assembly Language and Computer Architecture](https://github.com/Linsetta/SchoolProjects/tree/master/Class41JA_ASM/HW)
 
 > Introduction to the syntax and semantics of the x86 processor
 > assembly language, standard instruction set, selected macros and
 > directives, x86 architecture.
 
-* [UC Santa Cruz CMPS101: Algorithms and Abstract Data Types](https://github.com/Linsetta/SchoolProjects/tree/master/ClassCS101_C)
+## [UC Santa Cruz CMPS101: Algorithms and Abstract Data Types](https://github.com/Linsetta/SchoolProjects/tree/master/ClassCS101_C)
 
 > Studies basic algorithms and their relationships to common abstract
 > data types. Covers the notions of abstract data types and the
