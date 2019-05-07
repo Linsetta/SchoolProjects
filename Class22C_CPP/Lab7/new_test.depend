@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1519623947 source:c:\users\alexg\desktop\quiz\new_test\book.cpp
+	"Book.h"
+	<iostream>
+	<iomanip>
+
+1519614013 c:\users\alexg\desktop\quiz\new_test\book.h
+	<string>
+	<ostream>
+
+1519623333 source:c:\users\alexg\desktop\quiz\new_test\catalogue.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstdlib>
+	<cstddef>
+	<assert.h>
+	"HashTable.h"
+	"BST.h"
+
+1519621456 source:c:\users\alexg\desktop\quiz\new_test\hashtable.cpp
+	"HashTable.h"
+	"List.h"
+	"Book.h"
+	<iostream>
+	<assert.h>
+
+1519614018 c:\users\alexg\desktop\quiz\new_test\hashtable.h
+	<string>
+	"List.h"
+	"Book.h"
+
+1519614021 c:\users\alexg\desktop\quiz\new_test\list.h
+	<string>
+	<iostream>
+	<ostream>
+	<assert.h>
+	<cstddef>
+
+1519619521 source:c:\users\alexg\desktop\quiz\new_test\hashtest.cpp
+	<iostream>
+	<cstddef>
+	<assert.h>
+	"HashTable.h"
+
+1519623930 c:\users\alexg\desktop\quiz\new_test\bst.h
+	<cstddef>
+	<string>
+	<assert.h>
+
